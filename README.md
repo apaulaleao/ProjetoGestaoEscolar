@@ -43,6 +43,9 @@ Descrição do relacionamento: uma turma pode conter vários alunos, porém, um 
 <h3>Tecnologias utilizadas:</h3> <p>
 .Net Framework, SQL Server e Azure.<p>
 
+[Link do Azure!](https://escola20220708004532.azurewebsites.net/api/Aluno) <p>
+[Link do Postman!](https://documenter.getpostman.com/view/21664002/UzJPKuL3)<p>
+
 
 
 
@@ -52,4 +55,4 @@ Descrição do relacionamento: uma turma pode conter vários alunos, porém, um 
 
 </a>
 
-Feito com ❤️ por Ana Paula Leão👋 [Entre em contato!](https://www.linkedin.com/in/apaulaleao/)
+Feito com ❤️ por Ana Paula Leão👋 [Entre em contato!](https://www.linkedin.com/in/apaulaleao/) <p>
